@@ -1,6 +1,10 @@
 ![Stuart Profile Pic](https://github.com/user-attachments/assets/9b938c2d-29e9-4e23-b2b1-aeb84bb139d0)
 # Hi! I'm Stuart! Welcome to my professional portfolio!
 
+### About Me: I'm an experienced Business Analyst with over 4 years of expertise in business analytics, data interpretation, and strategic planning. Skilled at leveraging data-driven insights to analyze complex data sets, create actionable reports, and collaborate with cross-functional teams to inform decision-making and improve business processes. I also recently completed the TripleTen Business Intelligence Analytics bootcamp to complement my background with data analysis and visualization tools.
+
+### I would love to get in touch! Email me at stucodd@gmail.com and connect with me on [LinkedIn](https://www.linkedin.com/in/stuart-codd)
+
 ## Here are projects I worked on while in the Business Intelligence Bootcamp
 | # | Project Name | Project Description |
 | :-----------: | ----------- |----------- |
